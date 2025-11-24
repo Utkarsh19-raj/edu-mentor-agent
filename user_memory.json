@@ -1,0 +1,10 @@
+{
+  "demo_user": {
+    "user_id": "demo_user",
+    "goals": [
+      "study basic of machine learning"
+    ],
+    "history": [],
+    "weak_topics": []
+  }
+}
